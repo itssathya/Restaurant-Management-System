@@ -1,0 +1,6 @@
+Sathyanarayanan|06/03/2001|7010551045|nsathya33@gmail.com|CF2RMS
+Gopalan G|06/03/1900|9600428129|ggopalan92@outlook.com|WR3RMS
+Sathyaaa|09/10/2000|202000|202000|CS6RMS
+Rishapp|09/20/1000|9090909090|kakakakaka|WR7RMS
+Sanjay|09/12/2000|980989098|sanjay@testmail.com|WR8RMS
+TestEmp|06/03/2001|980981092|nsathya33@gmail.com|WR9RMS

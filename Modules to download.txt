@@ -1,0 +1,3 @@
+Colorama
+Tabulate
+pyAesCrypt
